@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author_id": 1,
+      "avatar": "https://img.cpapracticeadvisor.com/files/base/cygnus/cpa/image/2020/08/WORX_Mark_Cuban_1_.5f29c71109ddc.png?auto=format&w=720",
+      "author_name": "Mark Cuban",
+      "author_username": "mcuban",
+      "body": "You know damn well covid hospitalizations are not distributed evenly across the country.  You are purposely trying to mislead people",
+      "comments": [
+        {
+          "id": "4781ecba-ddac-44cf-8dc8-9846613cff42",
+          "comment_body": "Hello!",
+          "comment_author": "Robert Herjavec",
+          "timestamp": 1604770379007
+        },
+        {
+          "id": "55710452-73d7-4eb6-8e93-44aaf4584d78",
+          "comment_body": "",
+          "comment_author": "Mark Cuban",
+          "timestamp": 1604910151441
+        }
+      ],
+      "likes": [
+        {
+          "user_id": 2,
+          "username": "robertherjavec"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "author_id": 2,
+      "avatar": "https://pbs.twimg.com/profile_images/608643660876423170/DgxUW3eZ.jpg",
+      "author_name": "Robert Herjavec",
+      "author_username": "rherjavec",
+      "body": "If you don't believe in yourself, how could you expect someone else to ?",
+      "comments": [
+        {
+          "id": "48e93064-7eb9-400c-b198-3cc12e584a0c",
+          "comment_body": "Hello there!",
+          "comment_author": "Mark Cuban",
+          "timestamp": 1604908768798
+        },
+        {
+          "id": "dbfec37e-dbdb-403e-8c3d-eceb5bcd9c85",
+          "comment_body": "",
+          "comment_author": "Mark Cuban",
+          "timestamp": 1604910151453
+        }
+      ],
+      "likes": []
+    }
+  ],
+  "users": [
+    {
+      "user_id": 1,
+      "avatar": "https://img.cpapracticeadvisor.com/files/base/cygnus/cpa/image/2020/08/WORX_Mark_Cuban_1_.5f29c71109ddc.png?auto=format&w=720",
+      "username": "mcuban",
+      "username_fullname": "Mark Cuban",
+      "password": "abc",
+      "details": "Entrepreneur. Shark tank. Investor. Mishegas. Author. http://blogmaverick.com , Dad, world's worst joke teller"
+    },
+    {
+      "user_id": 2,
+      "avatar": "https://pbs.twimg.com/profile_images/608643660876423170/DgxUW3eZ.jpg",
+      "username": "robertherjavec",
+      "username_fullname": "Robert Herjavec",
+      "password": "abc",
+      "details": "Dad, Husband, Founder & CEO of global cybersecurity firm @HerjavecGroup, Shark on ABC’s Shark Tank, Former Dragon, Author"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "More millenials are buying homes"
+    }
+  ]
+}
